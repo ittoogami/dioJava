@@ -1,1 +1,1 @@
-Repositorio para pratico do curso Java.
+Repositorio para pratico do curso Java da DIO.
